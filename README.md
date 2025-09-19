@@ -58,14 +58,3 @@ curl --location --request POST 'http://localhost:8080/go_ocr/v1/ktp/request' \
 Karena project ini bersifat open source, maka saya membebaskan anda untuk menggunakanya dan jika anda menemukan ide-ide menarik atau menemukan issue
 jangan ragu-ragu untuk melakukan pull request. Karena code yang saya kerjakan jauh dari sempurna dan butuh pemikiran teman-teman 
 untuk mengembangkannya menjadi lebih baik.
-
-
-Buy me a coffee :
-No Account **082111833436** 
-
-<p align="justify">
-<img height="80px" src="https://pbs.twimg.com/media/EUbePLEU0AIpder.jpg"/>
-<img height="80px" src="https://seeklogo.com/images/L/link-aja-logo-F029ED0939-seeklogo.com.png"/>
-<img height="80px" src="https://asset.kompas.com/crops/DAPlq4jQK0wFUY84bwiwcnX27kU=/0x0:780x390/780x390/data/photo/2017/01/11/1631493logo-black780x390.jpg"/>
-<img height="80px" src="https://1.bp.blogspot.com/-LDwtS_oxYgg/XO67MmzGN7I/AAAAAAAAADI/hrSqgCRod3oIS6NtwjOqdY0okl8hwyi6gCLcBGAs/s1600/logo%2Bdana%2Bdompet%2Bdigital%2BPNG.png"/>
-</p>
