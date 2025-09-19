@@ -53,8 +53,3 @@ Ada 2 metode yakni secara langsung  atau secara docker. Pertama-tama, anda clone
 curl --location --request POST 'http://localhost:8080/go_ocr/v1/ktp/request' \
 --form 'file=@{PATH_FILE}/ktpcontoh2.jpg'
 ```
-
-## Undangan untuk berkolaborasi
-Karena project ini bersifat open source, maka saya membebaskan anda untuk menggunakanya dan jika anda menemukan ide-ide menarik atau menemukan issue
-jangan ragu-ragu untuk melakukan pull request. Karena code yang saya kerjakan jauh dari sempurna dan butuh pemikiran teman-teman 
-untuk mengembangkannya menjadi lebih baik.
